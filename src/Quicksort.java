@@ -84,4 +84,5 @@ public class Quicksort {
 	public ArrayList<Integer> getNumbers() {
 		return numbers;
 	}
+	
 }
